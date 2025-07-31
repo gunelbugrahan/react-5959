@@ -1,0 +1,17 @@
+.warzoneImg {
+  width: 300px;
+  height: 300px;
+}
+
+.card-back {
+  margin-top: 25px;
+  font-size: 1.5rem;
+}
+
+.card-hover:hover {
+  transform: scale(1.05);
+  transition: transform 0.5s ease-in-out;
+  cursor: pointer;
+  box-shadow: 0 4px 8px #4e222233,
+    0 6px 20px #f73a0b30;
+}
