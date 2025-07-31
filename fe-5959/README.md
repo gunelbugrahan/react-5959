@@ -1,12 +1,48 @@
-# React + Vite
+# React Oyun Koleksiyonu Projesi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje, React ve Bootstrap kullanılarak geliştirilmiş bir oyun koleksiyonu web uygulamasıdır. Kullanıcı dostu arayüzü, modern tasarımı ve dinamik sayfa geçişleriyle öne çıkar.
 
-Currently, two official plugins are available:
+## Özellikler
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React Router ile Dinamik Sayfa Geçişleri:** Ana sayfa ve Hakkımızda gibi farklı sayfalar arasında hızlı geçiş.
+- **Bootstrap ile Responsive Tasarım:** Tüm cihazlarda uyumlu ve şık görünüm.
+- **Özel Bileşenler:** Navbar, Hero Section, Card, Footer gibi özelleştirilebilir bileşenler.
+- **SCSS ile Stil Yönetimi:** Her bileşen için ayrı SCSS dosyaları ile kolay stil yönetimi.
+- **Oyun Kartları:** Oyunlara ait görseller, başlıklar ve açıklamalar.
+- **Footer:** Sayfanın altında sabit, modern bir footer.
 
-## Expanding the ESLint configuration
+## Kurulum
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Bu repoyu klonlayın:
+   ```bash
+   git clone <repo-link>
+   cd <proje-klasörü>
+   ```
+2. Bağımlılıkları yükleyin:
+   ```bash
+   pnpm install
+   ```
+3. Projeyi başlatın:
+   ```bash
+   pnpm run dev
+   ```
+
+## Kullanılan Teknolojiler
+
+- React
+- React Router
+- React Bootstrap
+- SCSS (Sass)
+- Vite
+
+## Ekran Görüntüsü
+
+> Buraya projenin bir ekran görüntüsünü ekleyebilirsiniz.
+
+## Katkı
+
+Katkıda bulunmak isterseniz, lütfen bir pull request gönderin veya issue açın.
+
+---
+
+**Not:** Bu proje, öğrenme ve pratik amaçlı geliştirilmiştir.
