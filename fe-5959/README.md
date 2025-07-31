@@ -37,7 +37,8 @@ Bu proje, React ve Bootstrap kullanılarak geliştirilmiş bir oyun koleksiyonu 
 
 ## Ekran Görüntüsü
 
-> Buraya projenin bir ekran görüntüsünü ekleyebilirsiniz.
+<img width="2539" height="1300" alt="image" src="https://github.com/user-attachments/assets/828384c4-25a4-44e2-a37f-7ba09ba6ed66" />
+
 
 ## Katkı
 
